@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Damian Rojas</h1>
-<h3 align="center">Soy un apasionado desarrollador de software</h3>
+<h3 align="center">Soy un interesado desarrollador de software</h3>
 
 - 🔭 Estoy trabajando en **Universidad de José C. Paz**
 
