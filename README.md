@@ -8,9 +8,9 @@
 ### 🧑‍💻 Sobre mí
 
 Soy un **desarrollador de software** con varios años de experiencia, especializado en **PHP** y **Python**.  
-Trabajo actualmente en la **Universidad Nacional de José C. Paz (UNPAZ)**, donde participo en proyectos de desarrollo orientados a la **automatización de procesos** y la **optimización de sistemas**.
+Trabajo actualmente en la **Universidad Nacional de José C. Paz**, donde participo en proyectos de desarrollo orientados a la **automatización de procesos** y la **optimización de sistemas**.
 
-Me apasiona la tecnología, la búsqueda constante de **mejores soluciones a los problemas**, y disfruto colaborar con equipos donde la comunicación y el aprendizaje son clave.
+Me apasiona la tecnología, la búsqueda constante de **mejores soluciones a los problemas**, y **disfruto colaborar con equipos donde la comunicación y el aprendizaje son clave**.
 
 ---
 
@@ -42,14 +42,14 @@ Me apasiona la tecnología, la búsqueda constante de **mejores soluciones a los
 ### 📫 Contacto
 
 📧 **Correo:** [rojasdamianc@gmail.com](mailto:rojasdamianc@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/rojasdamian](https://linkedin.com/in/rojasdamian) *(si querés que agregue tu enlace, lo sumo acá)*  
-🌍 **Portafolio / Proyectos:** [github.com/rojasdamian](https://github.com/rojasdamian)
+💼 **LinkedIn:** [linkedin.com/in/rojasdamian](https://www.linkedin.com/in/damianrojas79)  
+🌍 **Portafolio / Proyectos:** [github.com/rojasdamian](https://github.com/DamianRojas79)
 
 ---
 
 ### 🌱 Frase que me inspira
 
- “La tecnología no se trata solo de código, sino de resolver problemas de forma creativa.”
+> “La tecnología no se trata solo de código, sino de resolver problemas de forma creativa.”
 
 ---
 
